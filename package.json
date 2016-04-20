@@ -1,0 +1,21 @@
+{
+  "name": "webpack-tut",
+  "version": "1.0.0",
+  "description": "A simple scaffolding for js, es6, css, scss bundler",
+  "main": "bundle.js",
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1",
+    "sass-loader": "",
+    "node-sass": "",
+    "babel-loader": "",
+    "babel-core": "",
+    "babel-preset-es2015": ""
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
